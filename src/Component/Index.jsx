@@ -1,5 +1,6 @@
 import React, { useRef } from 'react';
 import { FaSearch } from 'react-icons/fa';
+import { FcLike } from "react-icons/fc";
 import { FaHeart } from "react-icons/fa";
 
 function Index() {
@@ -47,8 +48,10 @@ function Index() {
             </div>
 
             <div className='flex items-center gap-2 justify-center '>
-                &copy; Made by Izhar With <FaHeart className='text-red-600 hover:text-red-700 cursor-pointer' />
+                &copy; Made by Izhar Pasha With <FaHeart className='text-red-600 hover:text-red-700 cursor-pointer' />
             </div>
+
+            
         </div>
     );
 }
