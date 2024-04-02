@@ -6,7 +6,7 @@ This project is a simple web application built using React.js. It features a sin
 
 1. Clone the repository to your local machine:
 
-gitclone: https://izhar-pasha/github.io/Google.com
+gitclone: https://izhar-pasha.github.io/Google.com
 
 2. Navigate into the project directory: cd Google
 3. Install dependencies: npm install
